@@ -14,3 +14,6 @@
 
 - Tampilkan seluruh data provinsi yang berada di pulau tertentu
 ![Tampilkan seluruh data provinsi yang berada di pulau tertentu](/4/screenshots/3.PNG)
+
+- Tampilan hasil query POST / Tambah data
+![Tampilan hasil query POST / Tambah data](/4/screenshots/4.PNG)
